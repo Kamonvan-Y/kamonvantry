@@ -1,18 +1,19 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
   render() {
     return (
-      
-      <div>
-<body>
-      <div class="wrapper">
+     
+ <div>
+        
+    <body>
+      <div class="wrapper" >
             <nav>
-                <div class="logo">LOGO</div>
                               <div class="wrapper"></div>
                               <ul>
+                                
                                     <li><a href="#">Home</a></li>
                                     <li><a href="#">About</a></li>
                                     <li><a href="#">Blog</a></li>
@@ -25,13 +26,13 @@ class App extends Component {
            <section class="content">
              <p>somethingttttt-----</p>
            </section>
-           </div>
-          </body>  
-        
       </div>
-    
+   </body>  
+        
+</div>
     );
   }
-}
-
+}  
+    
+  
 export default App;
