@@ -12,10 +12,10 @@ class Carousel extends Component {
                <img class="d-block w-100" src="image/01.jpg" alt="First slide"/>
            </div>
              <div class="carousel-item">
-      <img class="d-block w-100" src="./02.jpg" alt="Second slide"/>
+      <img class="d-block w-100" src="image/02.jpg" alt="Second slide"/>
             </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="./03.jpg" alt="Third slide"/>
+      <img class="d-block w-100" src="image/03.jpg" alt="Third slide"/>
     </div>
   </div>
 </div>
